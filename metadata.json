@@ -1,0 +1,8 @@
+{
+  "name": "Headshot Sensi",
+  "description": "Gaming sensitivity optimizer, DPI calculator, custom weapon presets, headshot configuration manager, device diagnostics, and config sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

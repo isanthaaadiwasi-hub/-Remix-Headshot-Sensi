@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Headshot Sensi</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_sensi">Sensitivity</string>
+    <string name="nav_dpi">DPI Tool</string>
+    <string name="nav_profile">Profile</string>
+</resources>
